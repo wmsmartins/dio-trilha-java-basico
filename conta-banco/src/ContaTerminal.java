@@ -1,3 +1,5 @@
+//package desafio_dio_conta_bancaria;
+
 import java.util.Scanner;
 
 public class ContaTerminal {
@@ -12,7 +14,7 @@ public class ContaTerminal {
 
 		System.out.println("---------------CONTA BANCÁRIA---------------");
 		System.out.println();
-		System.out.println("Por favor, digite o número da Conta: ()");
+		System.out.println("Por favor, digite o número da Conta:(1234)");
 		numero = sc.nextInt();
 
 		System.out.println("Agora digite o número da Agência: (123-8)");
