@@ -1,4 +1,4 @@
-	// Inicio do código class ContaBancaria
+	// Inicio do código ContaBancaria
 
     public class ContaBancaria {
         private String titular;
